@@ -3,7 +3,7 @@ Notebooks and scripts for Prostate Cancer Grade Assessment Challenge (kaggle)
 
 ## Task
 
-Classifying whole-slide images of digitized prostate biopsies as not containing cancer (0) or into six ISUP grades indicating different levels of cancer severity (1 least - 5 most severe). 
+Classifying whole-slide images of digitized prostate biopsies as not containing cancer (0) or one of six ISUP grades indicating different levels of cancer severity (1 least - 5 most severe). 
 
 ## Metric
 
