@@ -18,7 +18,7 @@ The quadratically weighted kappa (QWK) is a measure of agreement (or disagreemen
 4. Train for 10 epochs (plan to do more..)
 5. Inference 
 
-### se_resnext50 + tiling: Test QWK = 0.74
+### Se_resnext50 + tiling: Test QWK = 0.74
 1. for each slide tile together the twelve 128x128 pixel windows with the greatest proportion of specimen to eliminate whitespace
 2. Transform with horizontal flip, vertical flip, normalization
 3. Feed to se_resnext50_32x4d pretrained on ImageNet
